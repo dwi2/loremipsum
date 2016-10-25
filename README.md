@@ -19,6 +19,7 @@ $> /path/to/go/bin/loremipsum t # copy only 'Lorem ipsum' in clipboard
 
 ## Synopsis
 
+```
 NAME:
    loremipsum - Generate `Lorem ipsum` in your clipboard in no time
 
@@ -36,4 +37,4 @@ COMMANDS:
 GLOBAL OPTIONS:
    --help, -h     show help
    --version, -v  print the version
-
+```
